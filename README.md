@@ -9,6 +9,7 @@ Marin is a 100% automatic moderation bot for Discord servers.
 ## ✨ Features
 
 - 🧠 AI-powered message filtering using Gemini 2.0 Flash Lite
+- 🛡️ Uses Google Safe Guard to check bad links
 - 📝 Logs sent to a configured moderation channel
 - 🔧 Minimal configuration
 
@@ -16,9 +17,7 @@ Marin is a 100% automatic moderation bot for Discord servers.
 
 ## ⚙️ Setup
 
-1. Invite the bot to your server
-2. Set the moderation log channel and exceptions using commands
-3. That’s it — Marin runs in the background, moderating your server automatically
+🚧 Still a W.I.P. — more coming soon!
 
 ---
 
